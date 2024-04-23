@@ -667,3 +667,39 @@
 }
 
 /*** Footer End ***/
+
+/* Extra small devices (phones) */
+@media (max-width: 450px) { 
+    .text-size-lg {
+      font-size: 9px; /* Set font size for extra small screens */
+      font-weight: bold;
+    }
+  }
+  
+  /* Small devices (tablets) */
+  @media (min-width: 576px) and (max-width: 767.98px) { 
+    .text-size-lg {
+      font-size: 16px; /* Set font size for small screens */
+      font-weight: bold;
+
+    }
+  }
+  
+  /* Medium devices (desktops) */
+  @media (min-width: 768px) and (max-width: 991.98px) { 
+    .text-size-lg {
+      font-size: 16px; /* Set font size for medium screens */
+      font-weight: bold;
+
+    }
+  }
+  
+  /* Large devices (large desktops) */
+  @media (min-width: 992px) { 
+    .text-size-lg {
+      font-size: 16px; /* Set font size for large screens */
+      font-weight: bold;
+
+    }
+  }
+  
