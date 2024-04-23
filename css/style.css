@@ -630,18 +630,18 @@
     width: 100%;
     top: 0;
     left: 0;
-    background: linear-gradient(rgba(165, 140, 15, 0.386), rgba(230, 250, 245, .3)), url(../img/background.jpg) center center no-repeat;
+    background: linear-gradient(#e1ddd390, rgba(230, 250, 245, .3)), url(../img/background.jpg) center center no-repeat;
     background-size: cover;
     border-radius: 10px;
     z-index: -1;
 }
 
 .contact-map {
-    background: #daa5205b;
+    background: #d6d4d096;
 }
 
 .contact-form {
-    background: #daa52090;
+    background: #d6d4d096;
 }
 
 /*** Contact End ***/
