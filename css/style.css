@@ -368,6 +368,9 @@
 .services-item:hover .services-content-icon p {
     color: var(--bs-white);
 }
+.services-item:hover .services-content-icon h4 {
+    color: var(--bs-white);
+}
 
 /*** Services End ***/
 
