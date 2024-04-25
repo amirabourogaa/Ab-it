@@ -1,9 +1,5 @@
-  =>  Template Name    : HighTech - IT Solutions Website Template
+  =>  Template Name    : AbiT - IT Solutions Website
 
-  =>  Template Link    : https://htmlcodex.com/it-solutions-website-template
+  =>  Website Link    : https://ab-it.vercel.app/service.html
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : Amira Bourogaa
